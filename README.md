@@ -92,10 +92,4 @@ Serverless document intelligence system that extracts text, forms, and tables fr
 
 ---
 
-### 📊 GitHub Stats
-
-![Johnathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaythagreat1&show_icons=true&theme=dark)
-
----
-
 ⭐️ Explore my repositories below!
